@@ -1,0 +1,12 @@
+ Volume in drive C is SOE
+ Volume Serial Number is E0C4-01AC
+
+ Directory of C:\Users\hmittal6\Desktop\Jelly
+
+11/02/2018  10:36 AM    <DIR>          .
+11/02/2018  10:36 AM    <DIR>          ..
+11/02/2018  10:36 AM                 0 text.txt
+11/02/2018  10:29 AM               418 World.class
+10/29/2018  08:15 AM               155 World.java
+               3 File(s)            573 bytes
+               2 Dir(s)  278,360,580,096 bytes free
